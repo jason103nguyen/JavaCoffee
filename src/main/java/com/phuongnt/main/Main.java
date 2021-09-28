@@ -9,4 +9,8 @@ public class Main {
 	public static void sayHi(String name) {
 		System.out.println("Hi " + name);
 	}
+
+	public static void eat(String kind) {
+		System.out.println("I want to eating " + kind);
+	}
 }
