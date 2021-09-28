@@ -6,8 +6,11 @@ public class Main {
 		System.out.println("Hello Git");
 	}
 	
+	public static void sayHi(String name) {
+		System.out.println("Hi " + name);
+	}
+
 	public static void eat(String kind) {
 		System.out.println("I want to eating " + kind);
 	}
-	
 }
